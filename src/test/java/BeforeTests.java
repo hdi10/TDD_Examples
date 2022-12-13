@@ -11,6 +11,9 @@ public class BeforeTests {
 
     @Before
     public void setUp(){
+
+        Person alice,billy,clark;
+
         alice = new Person();
         alice.setId(1L);
         alice.setFirstname("Alice");
