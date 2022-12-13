@@ -1,4 +1,7 @@
+package SpeedPresiTests;
+
 import org.junit.Before;
+import org.junit.jupiter.api.AfterAll;
 import org.junit.jupiter.api.Test;
 
 /**
@@ -34,8 +37,11 @@ public class BeforeTests {
 
     }
 
+
     @Test
     public void gutTest1(){
 
     }
+
+
 }
