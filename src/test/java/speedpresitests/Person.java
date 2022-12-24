@@ -1,4 +1,4 @@
-package SpeedPresiTests;
+package speedpresitests;
 
 import java.util.UUID;
 

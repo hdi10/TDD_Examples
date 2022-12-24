@@ -1,7 +1,6 @@
-package SpeedPresiTests;
+package speedpresitests;
 
 import org.junit.Before;
-import org.junit.jupiter.api.AfterAll;
 import org.junit.jupiter.api.Test;
 
 /**

@@ -1,7 +1,7 @@
 /**
  * Dastekin created on 13.12.2022 the ParametrizedTest-Class inside the package - SpeedPresiDeepDive
  */
-package SpeedPresiDeepDive;
+package speedpresideepfive;
 
 import org.junit.Assert;
 import org.junit.jupiter.api.Test;

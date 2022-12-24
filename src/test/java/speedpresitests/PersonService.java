@@ -1,4 +1,4 @@
-package SpeedPresiTests;
+package speedpresitests;
 
 /**
  * Dastekin created on 13.12.2022 the PersonService-Class inside the package - PACKAGE_NAME
